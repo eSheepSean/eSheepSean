@@ -1,10 +1,10 @@
 ```cpp
-#include <cstdio>
+#include <iostream>
 
 using namespace std;
 
 int main() {
-    printf("Sean12666 AK IOI\n");
+    cout << "Sean12666 RP++" << endl;
     return 0;
 }
 ```

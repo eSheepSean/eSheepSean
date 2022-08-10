@@ -4,7 +4,11 @@
 using namespace std;
 
 int main() {
-    cout << "Sean12666 RP++" << endl;
+    int rp = 0;
+    while (true) {
+        rp++;
+    }
+    cout << rp << endl;
     return 0;
 }
 ```
